@@ -8,16 +8,14 @@
 307396	Wael Yousef Hasan	15         (Didn't Respond/Participate)
 
 
-<img width="374" height="61" alt="image" src="https://github.com/user-attachments/assets/f69a5c48-be43-4bf5-8139-3e998e7e4964" />
-
-
-
 A simple web-based handwritten digit recognition system built using **Python, Flask, and TensorFlow**.
 
 The application uses a neural network trained on the **MNIST handwritten digit dataset** to recognize digits from uploaded images. Users can upload an image containing a single handwritten digit (0-9), and the system predicts the digit with a confidence score.
 
 
-<img width="639" height="866" alt="image" src="https://github.com/user-attachments/assets/529beef6-3d92-4f6b-86f5-4548b5306601" />
+<p align="center">
+  <img width="400" alt="Handwritten Digit Recognition Demo" src="https://github.com/user-attachments/assets/529beef6-3d92-4f6b-86f5-4548b5306601" />
+</p>
 
 The model is trained using the **MNIST dataset**.
 
