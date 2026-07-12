@@ -1,7 +1,17 @@
 # Handwritten Digit Recognition Web Application
+### University Assignment Project
+
+342458	ABD AL RAHMAN MOHAMMAD LOUBANI	15
+339411	Tamadur Nasser Ali	15
+
+271462	mhd nour mhd kussay kuzez	15 (Didn't Respond/Participate)
+307396	Wael Yousef Hasan	15         (Didn't Respond/Participate)
 
 
-https://handwritterdigittest.onrender.com/
+<img width="374" height="61" alt="image" src="https://github.com/user-attachments/assets/f69a5c48-be43-4bf5-8139-3e998e7e4964" />
+
+
+
 A simple web-based handwritten digit recognition system built using **Python, Flask, and TensorFlow**.
 
 The application uses a neural network trained on the **MNIST handwritten digit dataset** to recognize digits from uploaded images. Users can upload an image containing a single handwritten digit (0-9), and the system predicts the digit with a confidence score.
@@ -33,6 +43,9 @@ MNIST contains:
 - HTML
 - CSS
 - JavaScript
+
+## Access Deployed Version:
+https://handwritterdigittest.onrender.com/
 
 ## Running the Project Locally
 
