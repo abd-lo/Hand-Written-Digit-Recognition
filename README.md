@@ -1,11 +1,12 @@
 # Handwritten Digit Recognition Web Application
 ### University Assignment Project
 
-342458	ABD AL RAHMAN MOHAMMAD LOUBANI	15
-339411	Tamadur Nasser Ali	15
-
-271462	mhd nour mhd kussay kuzez	15 (Didn't Respond/Participate)
-307396	Wael Yousef Hasan	15         (Didn't Respond/Participate)
+| Student ID | Name | GroupNum | Status |
+|------------|------|------|--------|
+| 342458 | ABD AL RAHMAN MOHAMMAD LOUBANI | 15 | |
+| 339411 | Tamadur Nasser Ali | 15 | |
+| 271462 | mhd nour mhd kussay kuzez | 15 | Didn't Respond/Participate |
+| 307396 | Wael Yousef Hasan | 15 | Didn't Respond/Participate |
 
 
 A simple web-based handwritten digit recognition system built using **Python, Flask, and TensorFlow**.
